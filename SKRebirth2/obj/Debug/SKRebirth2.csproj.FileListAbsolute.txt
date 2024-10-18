@@ -1,0 +1,766 @@
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\mysqlbackup.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\RdlCompile.cache
+C:\Users\Augusto\source\repos\SKRebirth2\SKRebirth2\obj\Debug\RdlCompile.compiled
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\MAQ - 01\Desktop\SKRebirth2\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\RdlCompile.cache
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\RdlCompile.compiled
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\SKRebirth2\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\Maq-3\Desktop\v20.1 ANTIDOTE\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\RdlCompile.cache
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\RdlCompile.compiled
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\v20.2 THANK GOD\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\RdlCompile.cache
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\RdlCompile.compiled
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.pdb
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.exe
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.pdb
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\MaterialSkin.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\MySql.Data.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\EnvDTE.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\stdole.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\MySql.Data.xml
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.exe
+E:\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\MAQ 9\Desktop\v20.3 Starboy\SKRebirth2\obj\Debug\SKRebirth2.pdb
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\MaterialSkin.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\MySql.Data.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\EnvDTE.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\stdole.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\MySql.Data.xml
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\RdlCompile.cache
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\RdlCompile.compiled
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.exe
+F:\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SKRebirth2.exe.config
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\SKRebirth2.pdb
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\MaterialSkin.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\MySql.Data.DLL
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\EnvDTE.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\stdole.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.AssemblyReference.cache
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.Form1.resources
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.splash.resources
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.Login.resources
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.Properties.Resources.resources
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.GenerateResource.cache
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\RdlCompile.cache
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\RdlCompile.compiled
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.csproj.CopyComplete
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.exe
+C:\Users\Augusto\Desktop\v20.3.2 Starboy (buggy)\SKRebirth2\obj\Debug\SKRebirth2.pdb
