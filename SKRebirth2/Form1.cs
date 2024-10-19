@@ -556,21 +556,44 @@ namespace SKRebirth2
             }
         }
 
-        // menu consulta internacional
-
-
         private void materialButton9_Click(object sender, EventArgs e)
         {
-            string connection = "server=localhost; user id = root; password =;database=stucchi";
-            MySqlConnection con = new MySqlConnection(connection);
-            string arquivo = arquivo2.Text;
-            MySqlCommand cmd = new MySqlCommand("", con);
-            MySqlBackup mb = new MySqlBackup(cmd);
-            con.Open();
-            mb.ImportFromFile(arquivo);
-            con.Close();
-            MaterialMessageBox.Show("Backup Importado  com sucesso");
+            string connection = "server=localhost; user id=root; password=;database=stucchi";
+            using (MySqlConnection con = new MySqlConnection(connection))
+            {
+                con.Open();
+                string dropTablesQuery = "SET FOREIGN_KEY_CHECKS = 0; " +
+                                         "DROP TABLE IF EXISTS `empresa_internacional`, `empresa_nacional`, `funcionarios`; " +
+                                         "SET FOREIGN_KEY_CHECKS = 1;";
+                using (MySqlCommand cmd = new MySqlCommand(dropTablesQuery, con))
+                {
+                    cmd.ExecuteNonQuery();
+                }
+                string arquivo = arquivo2.Text;
+                using (MySqlCommand cmd = new MySqlCommand("", con))
+                {
+                    MySqlBackup mb = new MySqlBackup(cmd);
+                    mb.ImportFromFile(arquivo);
+                }
+                con.Close();
+            }
+            this.empresa_internacionalTableAdapter.Fill(this.stucchiDataSet.empresa_internacional);
+            empresa_internacionalDataGridView.DataSource = null;
+            empresa_internacionalDataGridView.DataSource = empresa_internacionalBindingSource;
+
+            this.funcionariosTableAdapter.Fill(this.stucchiDataSet.funcionarios);
+            funcionariosDataGridView.DataSource = null;
+            funcionariosDataGridView.DataSource = funcionariosBindingSource;
+
+            this.empresa_nacionalTableAdapter.Fill(this.stucchiDataSet.empresa_nacional);
+            empresa_nacionalDataGridView.DataSource = null;
+            empresa_nacionalDataGridView.DataSource = empresa_nacionalBindingSource;
+
+            MaterialMessageBox.Show("Backup importado com sucesso.");
         }
+
+        // menu consulta internacional
+
 
         private void materialTextBox5_TextChanged(object sender, EventArgs e)
         {

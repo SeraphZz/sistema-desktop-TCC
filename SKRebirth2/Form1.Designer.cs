@@ -31,17 +31,13 @@ namespace SKRebirth2
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource2 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource3 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.empresa_nacionalBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.stucchiDataSet = new SKRebirth2.stucchiDataSet();
-            this.empresa_internacionalBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.funcionariosBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource4 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource5 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            Microsoft.Reporting.WinForms.ReportDataSource reportDataSource6 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tabprincipal = new MaterialSkin.Controls.MaterialTabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
@@ -140,43 +136,12 @@ namespace SKRebirth2
             this.materialTextBox2 = new MaterialSkin.Controls.MaterialTextBox();
             this.materialTextBox1 = new MaterialSkin.Controls.MaterialTextBox();
             this.empresa_nacionalDataGridView = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn12 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabPage11 = new System.Windows.Forms.TabPage();
             this.materialButton13 = new MaterialSkin.Controls.MaterialButton();
             this.materialTextBox7 = new MaterialSkin.Controls.MaterialTextBox();
             this.materialTextBox6 = new MaterialSkin.Controls.MaterialTextBox();
             this.materialTextBox5 = new MaterialSkin.Controls.MaterialTextBox();
             this.empresa_internacionalDataGridView = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn27 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn28 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn29 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn30 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn31 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn32 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn33 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn34 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn35 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn36 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn37 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn38 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn39 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn40 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn41 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn42 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn43 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.relatoriotab = new System.Windows.Forms.TabPage();
             this.materialTabSelector5 = new MaterialSkin.Controls.MaterialTabSelector();
             this.funcionariorelatorio = new MaterialSkin.Controls.MaterialTabControl();
@@ -222,18 +187,6 @@ namespace SKRebirth2
             this.materialTextBox4 = new MaterialSkin.Controls.MaterialTextBox();
             this.materialTextBox3 = new MaterialSkin.Controls.MaterialTextBox();
             this.funcionariosDataGridView = new System.Windows.Forms.DataGridView();
-            this.dataGridViewTextBoxColumn15 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn16 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn17 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn18 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn20 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn19 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn21 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn22 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn23 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn24 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn25 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn26 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.imageList3 = new System.Windows.Forms.ImageList(this.components);
             this.backuptab = new System.Windows.Forms.TabPage();
             this.materialTabSelector4 = new MaterialSkin.Controls.MaterialTabSelector();
@@ -252,8 +205,6 @@ namespace SKRebirth2
             this.arquivo2 = new System.Windows.Forms.TextBox();
             this.imageList4 = new System.Windows.Forms.ImageList(this.components);
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.empresa_nacionalTableAdapter = new SKRebirth2.stucchiDataSetTableAdapters.empresa_nacionalTableAdapter();
-            this.tableAdapterManager = new SKRebirth2.stucchiDataSetTableAdapters.TableAdapterManager();
             this.empresa_nacionalBindingNavigator = new System.Windows.Forms.BindingNavigator(this.components);
             this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
@@ -267,8 +218,6 @@ namespace SKRebirth2
             this.bindingNavigatorMoveLastItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.empresa_nacionalBindingNavigatorSaveItem = new System.Windows.Forms.ToolStripButton();
-            this.empresa_internacionalTableAdapter = new SKRebirth2.stucchiDataSetTableAdapters.empresa_internacionalTableAdapter();
-            this.funcionariosTableAdapter = new SKRebirth2.stucchiDataSetTableAdapters.funcionariosTableAdapter();
             this.funcionarioBindingNavigator = new System.Windows.Forms.BindingNavigator(this.components);
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
@@ -282,10 +231,57 @@ namespace SKRebirth2
             this.toolStripButton6 = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton7 = new System.Windows.Forms.ToolStripButton();
-            ((System.ComponentModel.ISupportInitialize)(this.empresa_nacionalBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.stucchiDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.empresa_internacionalBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.funcionariosBindingSource)).BeginInit();
+            this.empresa_nacionalBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.stucchiDataSet = new SKRebirth2.stucchiDataSet();
+            this.funcionariosBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.empresa_internacionalBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn12 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn13 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn14 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn27 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn28 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn29 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn30 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn31 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn32 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn33 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn34 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn35 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn36 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn37 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn38 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn39 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn40 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn41 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn42 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn43 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn15 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn16 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn17 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn18 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn20 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn19 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn21 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn22 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn23 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn24 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn25 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn26 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.empresa_nacionalTableAdapter = new SKRebirth2.stucchiDataSetTableAdapters.empresa_nacionalTableAdapter();
+            this.tableAdapterManager = new SKRebirth2.stucchiDataSetTableAdapters.TableAdapterManager();
+            this.empresa_internacionalTableAdapter = new SKRebirth2.stucchiDataSetTableAdapters.empresa_internacionalTableAdapter();
+            this.funcionariosTableAdapter = new SKRebirth2.stucchiDataSetTableAdapters.funcionariosTableAdapter();
             this.tabprincipal.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -319,27 +315,11 @@ namespace SKRebirth2
             this.empresa_nacionalBindingNavigator.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.funcionarioBindingNavigator)).BeginInit();
             this.funcionarioBindingNavigator.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.empresa_nacionalBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stucchiDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.funcionariosBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.empresa_internacionalBindingSource)).BeginInit();
             this.SuspendLayout();
-            // 
-            // empresa_nacionalBindingSource
-            // 
-            this.empresa_nacionalBindingSource.DataMember = "empresa_nacional";
-            this.empresa_nacionalBindingSource.DataSource = this.stucchiDataSet;
-            // 
-            // stucchiDataSet
-            // 
-            this.stucchiDataSet.DataSetName = "stucchiDataSet";
-            this.stucchiDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // empresa_internacionalBindingSource
-            // 
-            this.empresa_internacionalBindingSource.DataMember = "empresa_internacional";
-            this.empresa_internacionalBindingSource.DataSource = this.stucchiDataSet;
-            // 
-            // funcionariosBindingSource
-            // 
-            this.funcionariosBindingSource.DataMember = "funcionarios";
-            this.funcionariosBindingSource.DataSource = this.stucchiDataSet;
             // 
             // tabprincipal
             // 
@@ -376,10 +356,10 @@ namespace SKRebirth2
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(125, 48);
+            this.label1.Font = new System.Drawing.Font("Roboto", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(215, 57);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(99, 33);
+            this.label1.Size = new System.Drawing.Size(92, 35);
             this.label1.TabIndex = 4;
             this.label1.Text = "label1";
             // 
@@ -1563,11 +1543,11 @@ namespace SKRebirth2
             // 
             // empresa_nacionalDataGridView
             // 
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.DarkMagenta;
-            this.empresa_nacionalDataGridView.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.DarkMagenta;
+            this.empresa_nacionalDataGridView.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
             this.empresa_nacionalDataGridView.AutoGenerateColumns = false;
             this.empresa_nacionalDataGridView.BackgroundColor = System.Drawing.SystemColors.ControlDarkDark;
             this.empresa_nacionalDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -1590,97 +1570,13 @@ namespace SKRebirth2
             this.empresa_nacionalDataGridView.GridColor = System.Drawing.SystemColors.ControlDarkDark;
             this.empresa_nacionalDataGridView.Location = new System.Drawing.Point(149, 78);
             this.empresa_nacionalDataGridView.Name = "empresa_nacionalDataGridView";
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.empresa_nacionalDataGridView.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.empresa_nacionalDataGridView.RowsDefaultCellStyle = dataGridViewCellStyle6;
             this.empresa_nacionalDataGridView.Size = new System.Drawing.Size(699, 285);
             this.empresa_nacionalDataGridView.TabIndex = 0;
-            // 
-            // dataGridViewTextBoxColumn1
-            // 
-            this.dataGridViewTextBoxColumn1.DataPropertyName = "nome_empresa";
-            this.dataGridViewTextBoxColumn1.HeaderText = "Nome da Empresa";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
-            // 
-            // dataGridViewTextBoxColumn2
-            // 
-            this.dataGridViewTextBoxColumn2.DataPropertyName = "nome_representante";
-            this.dataGridViewTextBoxColumn2.HeaderText = "Nome do Representante";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
-            // 
-            // dataGridViewTextBoxColumn3
-            // 
-            this.dataGridViewTextBoxColumn3.DataPropertyName = "setor_atuacao";
-            this.dataGridViewTextBoxColumn3.HeaderText = "Setor de Atuação";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
-            // 
-            // dataGridViewTextBoxColumn4
-            // 
-            this.dataGridViewTextBoxColumn4.DataPropertyName = "email_empresa";
-            this.dataGridViewTextBoxColumn4.HeaderText = "E-mail da Empresa";
-            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
-            // 
-            // dataGridViewTextBoxColumn5
-            // 
-            this.dataGridViewTextBoxColumn5.DataPropertyName = "email_representante";
-            this.dataGridViewTextBoxColumn5.HeaderText = "E-mail do Representante";
-            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
-            // 
-            // dataGridViewTextBoxColumn6
-            // 
-            this.dataGridViewTextBoxColumn6.DataPropertyName = "telefone_empresa";
-            this.dataGridViewTextBoxColumn6.HeaderText = "Telefone da Empresa";
-            this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
-            // 
-            // dataGridViewTextBoxColumn7
-            // 
-            this.dataGridViewTextBoxColumn7.DataPropertyName = "cnpj";
-            this.dataGridViewTextBoxColumn7.HeaderText = "CNPJ";
-            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
-            // 
-            // dataGridViewTextBoxColumn8
-            // 
-            this.dataGridViewTextBoxColumn8.DataPropertyName = "cep";
-            this.dataGridViewTextBoxColumn8.HeaderText = "CEP";
-            this.dataGridViewTextBoxColumn8.Name = "dataGridViewTextBoxColumn8";
-            // 
-            // dataGridViewTextBoxColumn9
-            // 
-            this.dataGridViewTextBoxColumn9.DataPropertyName = "cidade";
-            this.dataGridViewTextBoxColumn9.HeaderText = "Cidade";
-            this.dataGridViewTextBoxColumn9.Name = "dataGridViewTextBoxColumn9";
-            // 
-            // dataGridViewTextBoxColumn10
-            // 
-            this.dataGridViewTextBoxColumn10.DataPropertyName = "bairro";
-            this.dataGridViewTextBoxColumn10.HeaderText = "Bairro";
-            this.dataGridViewTextBoxColumn10.Name = "dataGridViewTextBoxColumn10";
-            // 
-            // dataGridViewTextBoxColumn11
-            // 
-            this.dataGridViewTextBoxColumn11.DataPropertyName = "rua";
-            this.dataGridViewTextBoxColumn11.HeaderText = "Logadouro";
-            this.dataGridViewTextBoxColumn11.Name = "dataGridViewTextBoxColumn11";
-            // 
-            // dataGridViewTextBoxColumn12
-            // 
-            this.dataGridViewTextBoxColumn12.DataPropertyName = "numero";
-            this.dataGridViewTextBoxColumn12.HeaderText = "Número";
-            this.dataGridViewTextBoxColumn12.Name = "dataGridViewTextBoxColumn12";
-            // 
-            // dataGridViewTextBoxColumn13
-            // 
-            this.dataGridViewTextBoxColumn13.DataPropertyName = "classificacao";
-            this.dataGridViewTextBoxColumn13.HeaderText = "Classificação";
-            this.dataGridViewTextBoxColumn13.Name = "dataGridViewTextBoxColumn13";
-            // 
-            // dataGridViewTextBoxColumn14
-            // 
-            this.dataGridViewTextBoxColumn14.DataPropertyName = "data_contrato";
-            this.dataGridViewTextBoxColumn14.HeaderText = "Data do Contrato";
-            this.dataGridViewTextBoxColumn14.Name = "dataGridViewTextBoxColumn14";
             // 
             // tabPage11
             // 
@@ -1803,121 +1699,19 @@ namespace SKRebirth2
             this.dataGridViewTextBoxColumn42,
             this.dataGridViewTextBoxColumn43});
             this.empresa_internacionalDataGridView.DataSource = this.empresa_internacionalBindingSource;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.MenuText;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.empresa_internacionalDataGridView.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.MenuText;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.empresa_internacionalDataGridView.DefaultCellStyle = dataGridViewCellStyle7;
             this.empresa_internacionalDataGridView.GridColor = System.Drawing.SystemColors.ControlDarkDark;
             this.empresa_internacionalDataGridView.Location = new System.Drawing.Point(149, 78);
             this.empresa_internacionalDataGridView.Name = "empresa_internacionalDataGridView";
             this.empresa_internacionalDataGridView.Size = new System.Drawing.Size(699, 285);
             this.empresa_internacionalDataGridView.TabIndex = 0;
-            // 
-            // dataGridViewTextBoxColumn27
-            // 
-            this.dataGridViewTextBoxColumn27.DataPropertyName = "nome_empresa";
-            this.dataGridViewTextBoxColumn27.HeaderText = "Nome da Empresa";
-            this.dataGridViewTextBoxColumn27.Name = "dataGridViewTextBoxColumn27";
-            // 
-            // dataGridViewTextBoxColumn28
-            // 
-            this.dataGridViewTextBoxColumn28.DataPropertyName = "nome_representante";
-            this.dataGridViewTextBoxColumn28.HeaderText = "Nome do Representante";
-            this.dataGridViewTextBoxColumn28.Name = "dataGridViewTextBoxColumn28";
-            // 
-            // dataGridViewTextBoxColumn29
-            // 
-            this.dataGridViewTextBoxColumn29.DataPropertyName = "setor_atuacao";
-            this.dataGridViewTextBoxColumn29.HeaderText = "Setor de Atuação";
-            this.dataGridViewTextBoxColumn29.Name = "dataGridViewTextBoxColumn29";
-            // 
-            // dataGridViewTextBoxColumn30
-            // 
-            this.dataGridViewTextBoxColumn30.DataPropertyName = "email_empresa";
-            this.dataGridViewTextBoxColumn30.HeaderText = "E-mail da Empresa";
-            this.dataGridViewTextBoxColumn30.Name = "dataGridViewTextBoxColumn30";
-            // 
-            // dataGridViewTextBoxColumn31
-            // 
-            this.dataGridViewTextBoxColumn31.DataPropertyName = "email_representante";
-            this.dataGridViewTextBoxColumn31.HeaderText = "E-mail do Representante";
-            this.dataGridViewTextBoxColumn31.Name = "dataGridViewTextBoxColumn31";
-            // 
-            // dataGridViewTextBoxColumn32
-            // 
-            this.dataGridViewTextBoxColumn32.DataPropertyName = "telefone_empresa";
-            this.dataGridViewTextBoxColumn32.HeaderText = "Telefone da Empresa";
-            this.dataGridViewTextBoxColumn32.Name = "dataGridViewTextBoxColumn32";
-            // 
-            // dataGridViewTextBoxColumn33
-            // 
-            this.dataGridViewTextBoxColumn33.DataPropertyName = "ruc";
-            this.dataGridViewTextBoxColumn33.HeaderText = "RUC";
-            this.dataGridViewTextBoxColumn33.Name = "dataGridViewTextBoxColumn33";
-            // 
-            // dataGridViewTextBoxColumn34
-            // 
-            this.dataGridViewTextBoxColumn34.DataPropertyName = "rut";
-            this.dataGridViewTextBoxColumn34.HeaderText = "RUT";
-            this.dataGridViewTextBoxColumn34.Name = "dataGridViewTextBoxColumn34";
-            // 
-            // dataGridViewTextBoxColumn35
-            // 
-            this.dataGridViewTextBoxColumn35.DataPropertyName = "pais";
-            this.dataGridViewTextBoxColumn35.HeaderText = "País";
-            this.dataGridViewTextBoxColumn35.Name = "dataGridViewTextBoxColumn35";
-            // 
-            // dataGridViewTextBoxColumn36
-            // 
-            this.dataGridViewTextBoxColumn36.DataPropertyName = "codigo_postal";
-            this.dataGridViewTextBoxColumn36.HeaderText = "Código Postal";
-            this.dataGridViewTextBoxColumn36.Name = "dataGridViewTextBoxColumn36";
-            // 
-            // dataGridViewTextBoxColumn37
-            // 
-            this.dataGridViewTextBoxColumn37.DataPropertyName = "cidade";
-            this.dataGridViewTextBoxColumn37.HeaderText = "Cidade";
-            this.dataGridViewTextBoxColumn37.Name = "dataGridViewTextBoxColumn37";
-            // 
-            // dataGridViewTextBoxColumn38
-            // 
-            this.dataGridViewTextBoxColumn38.DataPropertyName = "bairro";
-            this.dataGridViewTextBoxColumn38.HeaderText = "Bairro";
-            this.dataGridViewTextBoxColumn38.Name = "dataGridViewTextBoxColumn38";
-            // 
-            // dataGridViewTextBoxColumn39
-            // 
-            this.dataGridViewTextBoxColumn39.DataPropertyName = "rua";
-            this.dataGridViewTextBoxColumn39.HeaderText = "Logadouro";
-            this.dataGridViewTextBoxColumn39.Name = "dataGridViewTextBoxColumn39";
-            // 
-            // dataGridViewTextBoxColumn40
-            // 
-            this.dataGridViewTextBoxColumn40.DataPropertyName = "numero";
-            this.dataGridViewTextBoxColumn40.HeaderText = "Número";
-            this.dataGridViewTextBoxColumn40.Name = "dataGridViewTextBoxColumn40";
-            // 
-            // dataGridViewTextBoxColumn41
-            // 
-            this.dataGridViewTextBoxColumn41.DataPropertyName = "complemento";
-            this.dataGridViewTextBoxColumn41.HeaderText = "Complemento";
-            this.dataGridViewTextBoxColumn41.Name = "dataGridViewTextBoxColumn41";
-            // 
-            // dataGridViewTextBoxColumn42
-            // 
-            this.dataGridViewTextBoxColumn42.DataPropertyName = "classificacao";
-            this.dataGridViewTextBoxColumn42.HeaderText = "Classificação";
-            this.dataGridViewTextBoxColumn42.Name = "dataGridViewTextBoxColumn42";
-            // 
-            // dataGridViewTextBoxColumn43
-            // 
-            this.dataGridViewTextBoxColumn43.DataPropertyName = "data_de_contato";
-            this.dataGridViewTextBoxColumn43.HeaderText = "Data de Contato";
-            this.dataGridViewTextBoxColumn43.Name = "dataGridViewTextBoxColumn43";
             // 
             // relatoriotab
             // 
@@ -1978,9 +1772,9 @@ namespace SKRebirth2
             // reportViewer2
             // 
             this.reportViewer2.Dock = System.Windows.Forms.DockStyle.Fill;
-            reportDataSource1.Name = "DataSet1";
-            reportDataSource1.Value = this.empresa_nacionalBindingSource;
-            this.reportViewer2.LocalReport.DataSources.Add(reportDataSource1);
+            reportDataSource4.Name = "DataSet1";
+            reportDataSource4.Value = this.empresa_nacionalBindingSource;
+            this.reportViewer2.LocalReport.DataSources.Add(reportDataSource4);
             this.reportViewer2.LocalReport.ReportEmbeddedResource = "SKRebirth2.EmpresaNacionalRelatorio.rdlc";
             this.reportViewer2.Location = new System.Drawing.Point(3, 3);
             this.reportViewer2.Name = "reportViewer2";
@@ -2004,9 +1798,9 @@ namespace SKRebirth2
             // reportViewer3
             // 
             this.reportViewer3.Dock = System.Windows.Forms.DockStyle.Fill;
-            reportDataSource2.Name = "DataSet1";
-            reportDataSource2.Value = this.empresa_internacionalBindingSource;
-            this.reportViewer3.LocalReport.DataSources.Add(reportDataSource2);
+            reportDataSource5.Name = "DataSet1";
+            reportDataSource5.Value = this.empresa_internacionalBindingSource;
+            this.reportViewer3.LocalReport.DataSources.Add(reportDataSource5);
             this.reportViewer3.LocalReport.ReportEmbeddedResource = "SKRebirth2.EmpresasInternacional.rdlc";
             this.reportViewer3.Location = new System.Drawing.Point(3, 3);
             this.reportViewer3.Name = "reportViewer3";
@@ -2028,9 +1822,9 @@ namespace SKRebirth2
             // reportViewer1
             // 
             this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            reportDataSource3.Name = "FuncionariosDados";
-            reportDataSource3.Value = this.funcionariosBindingSource;
-            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource3);
+            reportDataSource6.Name = "FuncionariosDados";
+            reportDataSource6.Value = this.funcionariosBindingSource;
+            this.reportViewer1.LocalReport.DataSources.Add(reportDataSource6);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "SKRebirth2.FuncionarioRelatorio.rdlc";
             this.reportViewer1.Location = new System.Drawing.Point(0, 0);
             this.reportViewer1.Name = "reportViewer1";
@@ -2552,92 +2346,19 @@ namespace SKRebirth2
             this.dataGridViewTextBoxColumn25,
             this.dataGridViewTextBoxColumn26});
             this.funcionariosDataGridView.DataSource = this.funcionariosBindingSource;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.MenuText;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Desktop;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Fuchsia;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.funcionariosDataGridView.DefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.MenuText;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Desktop;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.Fuchsia;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.funcionariosDataGridView.DefaultCellStyle = dataGridViewCellStyle8;
             this.funcionariosDataGridView.GridColor = System.Drawing.SystemColors.ControlDarkDark;
             this.funcionariosDataGridView.Location = new System.Drawing.Point(149, 78);
             this.funcionariosDataGridView.Name = "funcionariosDataGridView";
             this.funcionariosDataGridView.Size = new System.Drawing.Size(699, 285);
             this.funcionariosDataGridView.TabIndex = 0;
-            // 
-            // dataGridViewTextBoxColumn15
-            // 
-            this.dataGridViewTextBoxColumn15.DataPropertyName = "nome";
-            this.dataGridViewTextBoxColumn15.HeaderText = "Nome";
-            this.dataGridViewTextBoxColumn15.Name = "dataGridViewTextBoxColumn15";
-            this.dataGridViewTextBoxColumn15.Visible = false;
-            // 
-            // dataGridViewTextBoxColumn16
-            // 
-            this.dataGridViewTextBoxColumn16.DataPropertyName = "email";
-            this.dataGridViewTextBoxColumn16.HeaderText = "E-mail";
-            this.dataGridViewTextBoxColumn16.Name = "dataGridViewTextBoxColumn16";
-            // 
-            // dataGridViewTextBoxColumn17
-            // 
-            this.dataGridViewTextBoxColumn17.DataPropertyName = "cpf";
-            this.dataGridViewTextBoxColumn17.HeaderText = "CPF";
-            this.dataGridViewTextBoxColumn17.Name = "dataGridViewTextBoxColumn17";
-            // 
-            // dataGridViewTextBoxColumn18
-            // 
-            this.dataGridViewTextBoxColumn18.DataPropertyName = "telefone";
-            this.dataGridViewTextBoxColumn18.HeaderText = "Telefone";
-            this.dataGridViewTextBoxColumn18.Name = "dataGridViewTextBoxColumn18";
-            // 
-            // dataGridViewTextBoxColumn20
-            // 
-            this.dataGridViewTextBoxColumn20.DataPropertyName = "cep";
-            this.dataGridViewTextBoxColumn20.HeaderText = "CEP";
-            this.dataGridViewTextBoxColumn20.Name = "dataGridViewTextBoxColumn20";
-            // 
-            // dataGridViewTextBoxColumn19
-            // 
-            this.dataGridViewTextBoxColumn19.DataPropertyName = "estado";
-            this.dataGridViewTextBoxColumn19.HeaderText = "Estado";
-            this.dataGridViewTextBoxColumn19.Name = "dataGridViewTextBoxColumn19";
-            // 
-            // dataGridViewTextBoxColumn21
-            // 
-            this.dataGridViewTextBoxColumn21.DataPropertyName = "cidade";
-            this.dataGridViewTextBoxColumn21.HeaderText = "Cidade";
-            this.dataGridViewTextBoxColumn21.Name = "dataGridViewTextBoxColumn21";
-            // 
-            // dataGridViewTextBoxColumn22
-            // 
-            this.dataGridViewTextBoxColumn22.DataPropertyName = "bairro";
-            this.dataGridViewTextBoxColumn22.HeaderText = "Bairro";
-            this.dataGridViewTextBoxColumn22.Name = "dataGridViewTextBoxColumn22";
-            // 
-            // dataGridViewTextBoxColumn23
-            // 
-            this.dataGridViewTextBoxColumn23.DataPropertyName = "rua";
-            this.dataGridViewTextBoxColumn23.HeaderText = "Logadouro";
-            this.dataGridViewTextBoxColumn23.Name = "dataGridViewTextBoxColumn23";
-            // 
-            // dataGridViewTextBoxColumn24
-            // 
-            this.dataGridViewTextBoxColumn24.DataPropertyName = "numero";
-            this.dataGridViewTextBoxColumn24.HeaderText = "Número";
-            this.dataGridViewTextBoxColumn24.Name = "dataGridViewTextBoxColumn24";
-            // 
-            // dataGridViewTextBoxColumn25
-            // 
-            this.dataGridViewTextBoxColumn25.DataPropertyName = "senha";
-            this.dataGridViewTextBoxColumn25.HeaderText = "Senha";
-            this.dataGridViewTextBoxColumn25.Name = "dataGridViewTextBoxColumn25";
-            // 
-            // dataGridViewTextBoxColumn26
-            // 
-            this.dataGridViewTextBoxColumn26.DataPropertyName = "nivel";
-            this.dataGridViewTextBoxColumn26.HeaderText = "Nível";
-            this.dataGridViewTextBoxColumn26.Name = "dataGridViewTextBoxColumn26";
             // 
             // imageList3
             // 
@@ -2846,7 +2567,7 @@ namespace SKRebirth2
             this.materialLabel47.AutoSize = true;
             this.materialLabel47.Depth = 0;
             this.materialLabel47.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.materialLabel47.Location = new System.Drawing.Point(430, 123);
+            this.materialLabel47.Location = new System.Drawing.Point(430, 130);
             this.materialLabel47.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialLabel47.Name = "materialLabel47";
             this.materialLabel47.Size = new System.Drawing.Size(120, 19);
@@ -2855,7 +2576,7 @@ namespace SKRebirth2
             // 
             // arquivo2
             // 
-            this.arquivo2.Location = new System.Drawing.Point(363, 145);
+            this.arquivo2.Location = new System.Drawing.Point(363, 152);
             this.arquivo2.Name = "arquivo2";
             this.arquivo2.ReadOnly = true;
             this.arquivo2.Size = new System.Drawing.Size(241, 20);
@@ -2879,18 +2600,6 @@ namespace SKRebirth2
             this.imageList1.Images.SetKeyName(4, "icons8-person-48.png");
             this.imageList1.Images.SetKeyName(5, "icons8-home-48.png");
             this.imageList1.Images.SetKeyName(6, "icons8-logout-24.png");
-            // 
-            // empresa_nacionalTableAdapter
-            // 
-            this.empresa_nacionalTableAdapter.ClearBeforeFill = true;
-            // 
-            // tableAdapterManager
-            // 
-            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
-            this.tableAdapterManager.empresa_internacionalTableAdapter = null;
-            this.tableAdapterManager.empresa_nacionalTableAdapter = this.empresa_nacionalTableAdapter;
-            this.tableAdapterManager.funcionariosTableAdapter = null;
-            this.tableAdapterManager.UpdateOrder = SKRebirth2.stucchiDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
             // 
             // empresa_nacionalBindingNavigator
             // 
@@ -3017,14 +2726,6 @@ namespace SKRebirth2
             this.empresa_nacionalBindingNavigatorSaveItem.Size = new System.Drawing.Size(23, 22);
             this.empresa_nacionalBindingNavigatorSaveItem.Text = "Salvar Dados";
             // 
-            // empresa_internacionalTableAdapter
-            // 
-            this.empresa_internacionalTableAdapter.ClearBeforeFill = true;
-            // 
-            // funcionariosTableAdapter
-            // 
-            this.funcionariosTableAdapter.ClearBeforeFill = true;
-            // 
             // funcionarioBindingNavigator
             // 
             this.funcionarioBindingNavigator.AddNewItem = this.toolStripButton1;
@@ -3150,6 +2851,305 @@ namespace SKRebirth2
             this.toolStripButton7.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton7.Text = "Salvar Dados";
             // 
+            // empresa_nacionalBindingSource
+            // 
+            this.empresa_nacionalBindingSource.DataMember = "empresa_nacional";
+            this.empresa_nacionalBindingSource.DataSource = this.stucchiDataSet;
+            // 
+            // stucchiDataSet
+            // 
+            this.stucchiDataSet.DataSetName = "stucchiDataSet";
+            this.stucchiDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // funcionariosBindingSource
+            // 
+            this.funcionariosBindingSource.DataMember = "funcionarios";
+            this.funcionariosBindingSource.DataSource = this.stucchiDataSet;
+            // 
+            // empresa_internacionalBindingSource
+            // 
+            this.empresa_internacionalBindingSource.DataMember = "empresa_internacional";
+            this.empresa_internacionalBindingSource.DataSource = this.stucchiDataSet;
+            // 
+            // dataGridViewTextBoxColumn1
+            // 
+            this.dataGridViewTextBoxColumn1.DataPropertyName = "nome_empresa";
+            this.dataGridViewTextBoxColumn1.HeaderText = "Nome da Empresa";
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.DataPropertyName = "nome_representante";
+            this.dataGridViewTextBoxColumn2.HeaderText = "Nome do Representante";
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            // 
+            // dataGridViewTextBoxColumn3
+            // 
+            this.dataGridViewTextBoxColumn3.DataPropertyName = "setor_atuacao";
+            this.dataGridViewTextBoxColumn3.HeaderText = "Setor de Atuação";
+            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            // 
+            // dataGridViewTextBoxColumn4
+            // 
+            this.dataGridViewTextBoxColumn4.DataPropertyName = "email_empresa";
+            this.dataGridViewTextBoxColumn4.HeaderText = "E-mail da Empresa";
+            this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
+            // 
+            // dataGridViewTextBoxColumn5
+            // 
+            this.dataGridViewTextBoxColumn5.DataPropertyName = "email_representante";
+            this.dataGridViewTextBoxColumn5.HeaderText = "E-mail do Representante";
+            this.dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
+            // 
+            // dataGridViewTextBoxColumn6
+            // 
+            this.dataGridViewTextBoxColumn6.DataPropertyName = "telefone_empresa";
+            this.dataGridViewTextBoxColumn6.HeaderText = "Telefone da Empresa";
+            this.dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
+            // 
+            // dataGridViewTextBoxColumn7
+            // 
+            this.dataGridViewTextBoxColumn7.DataPropertyName = "cnpj";
+            this.dataGridViewTextBoxColumn7.HeaderText = "CNPJ";
+            this.dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
+            // 
+            // dataGridViewTextBoxColumn8
+            // 
+            this.dataGridViewTextBoxColumn8.DataPropertyName = "cep";
+            this.dataGridViewTextBoxColumn8.HeaderText = "CEP";
+            this.dataGridViewTextBoxColumn8.Name = "dataGridViewTextBoxColumn8";
+            // 
+            // dataGridViewTextBoxColumn9
+            // 
+            this.dataGridViewTextBoxColumn9.DataPropertyName = "cidade";
+            this.dataGridViewTextBoxColumn9.HeaderText = "Cidade";
+            this.dataGridViewTextBoxColumn9.Name = "dataGridViewTextBoxColumn9";
+            // 
+            // dataGridViewTextBoxColumn10
+            // 
+            this.dataGridViewTextBoxColumn10.DataPropertyName = "bairro";
+            this.dataGridViewTextBoxColumn10.HeaderText = "Bairro";
+            this.dataGridViewTextBoxColumn10.Name = "dataGridViewTextBoxColumn10";
+            // 
+            // dataGridViewTextBoxColumn11
+            // 
+            this.dataGridViewTextBoxColumn11.DataPropertyName = "rua";
+            this.dataGridViewTextBoxColumn11.HeaderText = "Logadouro";
+            this.dataGridViewTextBoxColumn11.Name = "dataGridViewTextBoxColumn11";
+            // 
+            // dataGridViewTextBoxColumn12
+            // 
+            this.dataGridViewTextBoxColumn12.DataPropertyName = "numero";
+            this.dataGridViewTextBoxColumn12.HeaderText = "Número";
+            this.dataGridViewTextBoxColumn12.Name = "dataGridViewTextBoxColumn12";
+            // 
+            // dataGridViewTextBoxColumn13
+            // 
+            this.dataGridViewTextBoxColumn13.DataPropertyName = "classificacao";
+            this.dataGridViewTextBoxColumn13.HeaderText = "Classificação";
+            this.dataGridViewTextBoxColumn13.Name = "dataGridViewTextBoxColumn13";
+            // 
+            // dataGridViewTextBoxColumn14
+            // 
+            this.dataGridViewTextBoxColumn14.DataPropertyName = "data_contrato";
+            this.dataGridViewTextBoxColumn14.HeaderText = "Data do Contrato";
+            this.dataGridViewTextBoxColumn14.Name = "dataGridViewTextBoxColumn14";
+            // 
+            // dataGridViewTextBoxColumn27
+            // 
+            this.dataGridViewTextBoxColumn27.DataPropertyName = "nome_empresa";
+            this.dataGridViewTextBoxColumn27.HeaderText = "Nome da Empresa";
+            this.dataGridViewTextBoxColumn27.Name = "dataGridViewTextBoxColumn27";
+            // 
+            // dataGridViewTextBoxColumn28
+            // 
+            this.dataGridViewTextBoxColumn28.DataPropertyName = "nome_representante";
+            this.dataGridViewTextBoxColumn28.HeaderText = "Nome do Representante";
+            this.dataGridViewTextBoxColumn28.Name = "dataGridViewTextBoxColumn28";
+            // 
+            // dataGridViewTextBoxColumn29
+            // 
+            this.dataGridViewTextBoxColumn29.DataPropertyName = "setor_atuacao";
+            this.dataGridViewTextBoxColumn29.HeaderText = "Setor de Atuação";
+            this.dataGridViewTextBoxColumn29.Name = "dataGridViewTextBoxColumn29";
+            // 
+            // dataGridViewTextBoxColumn30
+            // 
+            this.dataGridViewTextBoxColumn30.DataPropertyName = "email_empresa";
+            this.dataGridViewTextBoxColumn30.HeaderText = "E-mail da Empresa";
+            this.dataGridViewTextBoxColumn30.Name = "dataGridViewTextBoxColumn30";
+            // 
+            // dataGridViewTextBoxColumn31
+            // 
+            this.dataGridViewTextBoxColumn31.DataPropertyName = "email_representante";
+            this.dataGridViewTextBoxColumn31.HeaderText = "E-mail do Representante";
+            this.dataGridViewTextBoxColumn31.Name = "dataGridViewTextBoxColumn31";
+            // 
+            // dataGridViewTextBoxColumn32
+            // 
+            this.dataGridViewTextBoxColumn32.DataPropertyName = "telefone_empresa";
+            this.dataGridViewTextBoxColumn32.HeaderText = "Telefone da Empresa";
+            this.dataGridViewTextBoxColumn32.Name = "dataGridViewTextBoxColumn32";
+            // 
+            // dataGridViewTextBoxColumn33
+            // 
+            this.dataGridViewTextBoxColumn33.DataPropertyName = "ruc";
+            this.dataGridViewTextBoxColumn33.HeaderText = "RUC";
+            this.dataGridViewTextBoxColumn33.Name = "dataGridViewTextBoxColumn33";
+            // 
+            // dataGridViewTextBoxColumn34
+            // 
+            this.dataGridViewTextBoxColumn34.DataPropertyName = "rut";
+            this.dataGridViewTextBoxColumn34.HeaderText = "RUT";
+            this.dataGridViewTextBoxColumn34.Name = "dataGridViewTextBoxColumn34";
+            // 
+            // dataGridViewTextBoxColumn35
+            // 
+            this.dataGridViewTextBoxColumn35.DataPropertyName = "pais";
+            this.dataGridViewTextBoxColumn35.HeaderText = "País";
+            this.dataGridViewTextBoxColumn35.Name = "dataGridViewTextBoxColumn35";
+            // 
+            // dataGridViewTextBoxColumn36
+            // 
+            this.dataGridViewTextBoxColumn36.DataPropertyName = "codigo_postal";
+            this.dataGridViewTextBoxColumn36.HeaderText = "Código Postal";
+            this.dataGridViewTextBoxColumn36.Name = "dataGridViewTextBoxColumn36";
+            // 
+            // dataGridViewTextBoxColumn37
+            // 
+            this.dataGridViewTextBoxColumn37.DataPropertyName = "cidade";
+            this.dataGridViewTextBoxColumn37.HeaderText = "Cidade";
+            this.dataGridViewTextBoxColumn37.Name = "dataGridViewTextBoxColumn37";
+            // 
+            // dataGridViewTextBoxColumn38
+            // 
+            this.dataGridViewTextBoxColumn38.DataPropertyName = "bairro";
+            this.dataGridViewTextBoxColumn38.HeaderText = "Bairro";
+            this.dataGridViewTextBoxColumn38.Name = "dataGridViewTextBoxColumn38";
+            // 
+            // dataGridViewTextBoxColumn39
+            // 
+            this.dataGridViewTextBoxColumn39.DataPropertyName = "rua";
+            this.dataGridViewTextBoxColumn39.HeaderText = "Logadouro";
+            this.dataGridViewTextBoxColumn39.Name = "dataGridViewTextBoxColumn39";
+            // 
+            // dataGridViewTextBoxColumn40
+            // 
+            this.dataGridViewTextBoxColumn40.DataPropertyName = "numero";
+            this.dataGridViewTextBoxColumn40.HeaderText = "Número";
+            this.dataGridViewTextBoxColumn40.Name = "dataGridViewTextBoxColumn40";
+            // 
+            // dataGridViewTextBoxColumn41
+            // 
+            this.dataGridViewTextBoxColumn41.DataPropertyName = "complemento";
+            this.dataGridViewTextBoxColumn41.HeaderText = "Complemento";
+            this.dataGridViewTextBoxColumn41.Name = "dataGridViewTextBoxColumn41";
+            // 
+            // dataGridViewTextBoxColumn42
+            // 
+            this.dataGridViewTextBoxColumn42.DataPropertyName = "classificacao";
+            this.dataGridViewTextBoxColumn42.HeaderText = "Classificação";
+            this.dataGridViewTextBoxColumn42.Name = "dataGridViewTextBoxColumn42";
+            // 
+            // dataGridViewTextBoxColumn43
+            // 
+            this.dataGridViewTextBoxColumn43.DataPropertyName = "data_de_contato";
+            this.dataGridViewTextBoxColumn43.HeaderText = "Data de Contato";
+            this.dataGridViewTextBoxColumn43.Name = "dataGridViewTextBoxColumn43";
+            // 
+            // dataGridViewTextBoxColumn15
+            // 
+            this.dataGridViewTextBoxColumn15.DataPropertyName = "nome";
+            this.dataGridViewTextBoxColumn15.HeaderText = "Nome";
+            this.dataGridViewTextBoxColumn15.Name = "dataGridViewTextBoxColumn15";
+            this.dataGridViewTextBoxColumn15.Visible = false;
+            // 
+            // dataGridViewTextBoxColumn16
+            // 
+            this.dataGridViewTextBoxColumn16.DataPropertyName = "email";
+            this.dataGridViewTextBoxColumn16.HeaderText = "E-mail";
+            this.dataGridViewTextBoxColumn16.Name = "dataGridViewTextBoxColumn16";
+            // 
+            // dataGridViewTextBoxColumn17
+            // 
+            this.dataGridViewTextBoxColumn17.DataPropertyName = "cpf";
+            this.dataGridViewTextBoxColumn17.HeaderText = "CPF";
+            this.dataGridViewTextBoxColumn17.Name = "dataGridViewTextBoxColumn17";
+            // 
+            // dataGridViewTextBoxColumn18
+            // 
+            this.dataGridViewTextBoxColumn18.DataPropertyName = "telefone";
+            this.dataGridViewTextBoxColumn18.HeaderText = "Telefone";
+            this.dataGridViewTextBoxColumn18.Name = "dataGridViewTextBoxColumn18";
+            // 
+            // dataGridViewTextBoxColumn20
+            // 
+            this.dataGridViewTextBoxColumn20.DataPropertyName = "cep";
+            this.dataGridViewTextBoxColumn20.HeaderText = "CEP";
+            this.dataGridViewTextBoxColumn20.Name = "dataGridViewTextBoxColumn20";
+            // 
+            // dataGridViewTextBoxColumn19
+            // 
+            this.dataGridViewTextBoxColumn19.DataPropertyName = "estado";
+            this.dataGridViewTextBoxColumn19.HeaderText = "Estado";
+            this.dataGridViewTextBoxColumn19.Name = "dataGridViewTextBoxColumn19";
+            // 
+            // dataGridViewTextBoxColumn21
+            // 
+            this.dataGridViewTextBoxColumn21.DataPropertyName = "cidade";
+            this.dataGridViewTextBoxColumn21.HeaderText = "Cidade";
+            this.dataGridViewTextBoxColumn21.Name = "dataGridViewTextBoxColumn21";
+            // 
+            // dataGridViewTextBoxColumn22
+            // 
+            this.dataGridViewTextBoxColumn22.DataPropertyName = "bairro";
+            this.dataGridViewTextBoxColumn22.HeaderText = "Bairro";
+            this.dataGridViewTextBoxColumn22.Name = "dataGridViewTextBoxColumn22";
+            // 
+            // dataGridViewTextBoxColumn23
+            // 
+            this.dataGridViewTextBoxColumn23.DataPropertyName = "rua";
+            this.dataGridViewTextBoxColumn23.HeaderText = "Logadouro";
+            this.dataGridViewTextBoxColumn23.Name = "dataGridViewTextBoxColumn23";
+            // 
+            // dataGridViewTextBoxColumn24
+            // 
+            this.dataGridViewTextBoxColumn24.DataPropertyName = "numero";
+            this.dataGridViewTextBoxColumn24.HeaderText = "Número";
+            this.dataGridViewTextBoxColumn24.Name = "dataGridViewTextBoxColumn24";
+            // 
+            // dataGridViewTextBoxColumn25
+            // 
+            this.dataGridViewTextBoxColumn25.DataPropertyName = "senha";
+            this.dataGridViewTextBoxColumn25.HeaderText = "Senha";
+            this.dataGridViewTextBoxColumn25.Name = "dataGridViewTextBoxColumn25";
+            // 
+            // dataGridViewTextBoxColumn26
+            // 
+            this.dataGridViewTextBoxColumn26.DataPropertyName = "nivel";
+            this.dataGridViewTextBoxColumn26.HeaderText = "Nível";
+            this.dataGridViewTextBoxColumn26.Name = "dataGridViewTextBoxColumn26";
+            // 
+            // empresa_nacionalTableAdapter
+            // 
+            this.empresa_nacionalTableAdapter.ClearBeforeFill = true;
+            // 
+            // tableAdapterManager
+            // 
+            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
+            this.tableAdapterManager.empresa_internacionalTableAdapter = null;
+            this.tableAdapterManager.empresa_nacionalTableAdapter = this.empresa_nacionalTableAdapter;
+            this.tableAdapterManager.funcionariosTableAdapter = null;
+            this.tableAdapterManager.UpdateOrder = SKRebirth2.stucchiDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
+            // 
+            // empresa_internacionalTableAdapter
+            // 
+            this.empresa_internacionalTableAdapter.ClearBeforeFill = true;
+            // 
+            // funcionariosTableAdapter
+            // 
+            this.funcionariosTableAdapter.ClearBeforeFill = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -3162,6 +3162,7 @@ namespace SKRebirth2
             this.DrawerShowIconsWhenHidden = true;
             this.DrawerTabControl = this.tabprincipal;
             this.DrawerWidth = 300;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(0, 64, 3, 3);
@@ -3169,10 +3170,6 @@ namespace SKRebirth2
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Stucchi";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.empresa_nacionalBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.stucchiDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.empresa_internacionalBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.funcionariosBindingSource)).EndInit();
             this.tabprincipal.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
@@ -3219,6 +3216,10 @@ namespace SKRebirth2
             ((System.ComponentModel.ISupportInitialize)(this.funcionarioBindingNavigator)).EndInit();
             this.funcionarioBindingNavigator.ResumeLayout(false);
             this.funcionarioBindingNavigator.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.empresa_nacionalBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.stucchiDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.funcionariosBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.empresa_internacionalBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
