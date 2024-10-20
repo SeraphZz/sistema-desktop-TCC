@@ -562,9 +562,7 @@ namespace SKRebirth2
             using (MySqlConnection con = new MySqlConnection(connection))
             {
                 con.Open();
-                string dropTablesQuery = "SET FOREIGN_KEY_CHECKS = 0; " +
-                                         "DROP TABLE IF EXISTS `empresa_internacional`, `empresa_nacional`, `funcionarios`; " +
-                                         "SET FOREIGN_KEY_CHECKS = 1;";
+                string dropTablesQuery = "DROP TABLE IF EXISTS `empresa_internacional`, `empresa_nacional`, `funcionarios`; ";
                 using (MySqlCommand cmd = new MySqlCommand(dropTablesQuery, con))
                 {
                     cmd.ExecuteNonQuery();
