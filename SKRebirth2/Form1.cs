@@ -562,7 +562,8 @@ namespace SKRebirth2
             using (MySqlConnection con = new MySqlConnection(connection))
             {
                 con.Open();
-                string dropTablesQuery = "DROP TABLE IF EXISTS `empresa_internacional`, `empresa_nacional`, `funcionarios`; ";
+                string dropTablesQuery = 
+                    "DROP TABLE IF EXISTS `empresa_internacional`, `empresa_nacional`, `funcionarios`; ";
                 using (MySqlCommand cmd = new MySqlCommand(dropTablesQuery, con))
                 {
                     cmd.ExecuteNonQuery();
@@ -575,6 +576,14 @@ namespace SKRebirth2
                 }
                 con.Close();
             }
+
+
+            this.empresa_nacionalTableAdapter.Fill(this.stucchiDataSet.empresa_nacional);
+            empresa_nacionalBindingSource.DataSource = this.stucchiDataSet.empresa_nacional; 
+            empresa_nacionalBindingSource.ResetBindings(false); 
+            empresa_nacionalDataGridView.DataSource = null;
+            empresa_nacionalDataGridView.DataSource = empresa_nacionalBindingSource;
+
             this.empresa_internacionalTableAdapter.Fill(this.stucchiDataSet.empresa_internacional);
             empresa_internacionalDataGridView.DataSource = null;
             empresa_internacionalDataGridView.DataSource = empresa_internacionalBindingSource;
@@ -582,10 +591,6 @@ namespace SKRebirth2
             this.funcionariosTableAdapter.Fill(this.stucchiDataSet.funcionarios);
             funcionariosDataGridView.DataSource = null;
             funcionariosDataGridView.DataSource = funcionariosBindingSource;
-
-            this.empresa_nacionalTableAdapter.Fill(this.stucchiDataSet.empresa_nacional);
-            empresa_nacionalDataGridView.DataSource = null;
-            empresa_nacionalDataGridView.DataSource = empresa_nacionalBindingSource;
 
             MaterialMessageBox.Show("Backup importado com sucesso.");
         }
