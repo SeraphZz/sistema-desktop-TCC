@@ -1,4 +1,4 @@
-# SKRebirth2
+# Projeto Source Kode
 
 Sistema desktop para cadastro, consulta e gerenciamento de empresas nacionais, internacionais e funcionários, com funcionalidades de backup e restauração de dados. Desenvolvido em C# (.NET Framework 4.7.2) utilizando MaterialSkin para interface moderna e integração com banco de dados MySQL.
 
